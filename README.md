@@ -1,6 +1,6 @@
-🚀 Galactic Defender
+🚀 CosmoStrike
 
-Galactic Defender is a browser-based space shooter game where you pilot a spaceship, fight endless waves of enemies, and collect power-ups to survive as long as possible. Built with HTML, CSS, and JavaScript.
+CosmoStrike is a browser-based space shooter game where you pilot a spaceship, fight endless waves of enemies, and collect power-ups to survive as long as possible. Built with HTML, CSS, and JavaScript.
 
 🎮 Features
 
